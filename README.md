@@ -3,10 +3,6 @@
 ## Project Overview
 This project predicts customer churn in the telecommunications industry using Statistical Machine Learning techniques. It compares Logistic Regression and Decision Tree classifiers and includes an interactive prototype for individual customer predictions.
 
-## Team Members
-- Himanshu Yadav — s25cseu0894
-- Ashish Gupta — s25cseu0879
-
 ## Dataset
 **IBM Telco Customer Churn Dataset**
 - 7,043 customer records
